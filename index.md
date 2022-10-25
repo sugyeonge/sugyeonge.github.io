@@ -62,7 +62,7 @@ Chanjun Park, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, **Sugyeong
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021 - (oral presentation)*<br>
 
 7. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-LoResMT.1/) <br>
-**Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+**Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *MT Summit 2021 - LoResMT, 2021 - (Oral presentation)*<br>
 
 8. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
@@ -71,7 +71,7 @@ Chanjun Park, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim<br>
 
 ### International Journal (SCI/SCIE)
 1. [Word-level Quality Estimation for Korean-English Neural Machine Translation](https://ieeexplore.ieee.org/document/9761258) <br>
-**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
 2. [Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions](https://www.mdpi.com/2227-7390/10/8/1335) <br>
@@ -83,7 +83,7 @@ Chanjun Park, Woo-Young Go, **Sugyeong Eo**, Hyeonseok Moon, Seolhwa Lee, Heuise
 *IEEE Access, 2022*<br>
 
 4. [An Automatic Post Editing with Efficient and Simple Data Generation Method](https://ieeexplore.ieee.org/document/9714400)<br>
-Hyeonseok Moon, Chanjun Park, Jaehyung Seo, **Sugyeong Eo**, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+Hyeonseok Moon, Chanjun Park, Jaehyung Seo, **Sugyeong Eo**, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
 5. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
@@ -91,11 +91,11 @@ Chanjun Park, Midan Shim, **Sugyeong Eo**, Seolhwa Lee, Jaehyung Seo, Hyeonseok 
 *arxiv, 2021*<br>
 
 6. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
-Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 *IEEE Access, 2021*<br>
 
 7. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
-**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *Applied Sciences, 2021*<br>
 
 ### Domestic Conference & Journal
