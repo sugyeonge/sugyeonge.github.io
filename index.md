@@ -72,7 +72,7 @@ Chanjun Park, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. Word-level Quality Estimation for Korean-English Neural Machine Translation <br>
+1. [Word-level Quality Estimation for Korean-English Neural Machine Translation](https://ieeexplore.ieee.org/document/9761258) <br>
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2022*<br>
 
