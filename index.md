@@ -1,10 +1,4 @@
 ---
-layout: home
-title: Welcome!
-subtitle: Home
----
-
----
 layout: post
 title: About Me
 subtitle: Excerpt from Soulshaping by Jeff Brown
