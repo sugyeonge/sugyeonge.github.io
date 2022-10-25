@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: Welcome to Sugyeong's Page!
 cover-img: background.JPG
 thumbnail-img: sugyeongeo.jpg
