@@ -21,7 +21,7 @@ Natural Language Processing, Neural Machine Translation, Quality Estimation, Cri
 ## Publications
 ### Top Conference (Main)
 1. [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460.pdf) <br>
-**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim
+**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim <br>
 *COLING 2022*<br>
 
 2. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
