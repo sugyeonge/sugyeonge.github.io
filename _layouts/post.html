@@ -40,16 +40,12 @@ layout: base
       {% endif %}
 
       <article role="main" class="blog-post">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
         {{ content }}
       </article>
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
-          {% if site.ins_logo %}
-                <img id="ins-logo" src="{{ site.ins_logo }}" />
-            {% endif %}
           {% for tag in page.tags %}
             <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
