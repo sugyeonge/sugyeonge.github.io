@@ -7,12 +7,7 @@ thumbnail-img: sugyeongeo.jpg
 ---
 
 ## About Me
-Hello. I am Sugyeong Eo. I am a Ph.D candidate in computer science and engineering at Korea University. I belong to the Natural Language Processing & Artificial Intelligence Lab (NLP&AI Lab), and my advisor is Prof. Heuiseok Lim. Feel free to contact me (below icon can link you and me!).
-
-반갑습니다, 저는 어수경입니다! 현재 고려대학교 석박 통합과정으로 있으며 임희석 교수님의 NLP&AI 연구실에서 연구중에 있습니다. 궁금하신 점이 있을 경우 아래 아이콘을 통해 연락하실 수 있습니다.
-
- <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
- <!-- (https://github.com/bk2dcradle/researcher) -->
+Hello. I am Sugyeong Eo. I am a Ph.D candidate in computer science and engineering at Korea University. I belong to the Natural Language Processing & Artificial Intelligence Lab (NLP&AI Lab), and my advisor is Prof. Heuiseok Lim. Feel free to contact me (The icons below will connect you and me!).
 
 ## Research Interest
 Natural Language Processing, Neural Machine Translation, Quality Estimation, Critical Error Detection, Question-Answer pair Generation (Question Generation), Curriculum Learning, Subword Tokenization, Language Modeling.
@@ -41,8 +36,8 @@ Hyeonseok Moon, Chanjun Park, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, **Sugyeon
 *LREC 2022, 2022*<br>
 
 ### Top Conference (Workshop)
-1. KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task (Will Be Published)
-**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim
+1. KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task (Will Be Published) <br>
+**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *EMNLP 2022 - Workshop on Machine Translation (WMT) 2022*<br>
 
 2. [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
