@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: About Me
 subtitle: Sugyeong Eo | 어수경
 cover-img: gosim.jpeg
