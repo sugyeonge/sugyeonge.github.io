@@ -5,7 +5,9 @@ subtitle: Sugyeong Eo
 thumbnail-img: sugyeongeo.jpg
 ---
 <img class="profile-picture" src="sugyeongeo.jpg">
-Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. See CV for more information.
+Hello. I am Sugyeong Eo. I am a Ph.D candidate in computer science and engineering at Korea University. I belong to the Natural Language Processing & Artificial Intelligence Lab (NLP&AI Lab), and my advisor is Prof. Heuiseok Lim. Feel free to contact me (below icon can link you and me!).
+
+반갑습니다, 저는 어수경입니다! 현재 고려대학교 석박 통합과정으로 있으며 임희석 교수님의 NLP&AI 연구실에서 연구중에 있습니다. 궁금하신 점이 있을 경우 아래 아이콘을 통해 연락하실 수 있습니다.
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
