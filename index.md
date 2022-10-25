@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome to Sugyeong's Page!
+subtitle: 어수경의 페이지
 cover-img: background.JPG
 thumbnail-img: sugyeongeo.jpg
 ---
