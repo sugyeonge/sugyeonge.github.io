@@ -49,6 +49,8 @@ round-avatar: true
 social-network-links:
   email: "djtnrud@korea.ac.kr"
   linkedin: "https://www.linkedin.com/in/sugyeong-eo-21a23015b/"
+  google-scholar: "https://scholar.google.com/citations?user=s4GjpoEAAAAJ&hl=en"
+  instagram: "sugyeonge"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 
 #  medium: yourname
@@ -95,7 +97,7 @@ url-pretty: "www.sugyeonge.com"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
