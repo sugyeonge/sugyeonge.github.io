@@ -1,7 +1,6 @@
 ---
-layout: base
-title: About Me
-subtitle: Sugyeong Eo | 어수경
+layout: home
+subtitle: About Me
 cover-img: gosim.jpeg
 ---
 
