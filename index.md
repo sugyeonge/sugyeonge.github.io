@@ -2,6 +2,7 @@
 layout: post
 title: About Me
 subtitle: Sugyeong Eo
+cover-img: background.JPG
 thumbnail-img: sugyeongeo.jpg
 ---
 <img class="profile-picture" src="sugyeongeo.jpg">
