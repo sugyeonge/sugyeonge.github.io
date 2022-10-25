@@ -46,6 +46,9 @@ layout: base
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
+          {% if site.ins_logo %}
+                <img id="ins-logo" src="{{ site.ins_logo }}" />
+            {% endif %}
           {% for tag in page.tags %}
             <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
