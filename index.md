@@ -2,7 +2,6 @@
 layout: post
 title: About Me
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: sugyeongeo.jpg
 thumbnail-img: sugyeongeo.jpg
 share-img: sugyeongeo.jpg
 ---
