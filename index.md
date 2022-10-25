@@ -7,7 +7,8 @@ thumbnail-img: sugyeongeo.jpg
 ---
 
 ## About Me
-Hello. I am Sugyeong Eo. I am a Ph.D candidate in computer science and engineering at Korea University. I belong to the Natural Language Processing & Artificial Intelligence Lab (NLP&AI Lab), and my advisor is Prof. Heuiseok Lim. Feel free to contact me (The icons below will connect you and me!).
+Hello, I am Sugyeong Eo! <br>
+I am a Ph.D candidate in computer science and engineering at Korea University. I belong to the Natural Language Processing & Artificial Intelligence Lab (NLP&AI Lab), and my advisor is Prof. Heuiseok Lim. Feel free to contact me (The icons below will connect you and me)!
 
 ## Research Interest
 Natural Language Processing, Neural Machine Translation, Quality Estimation, Critical Error Detection, Question-Answer pair Generation (Question Generation), Curriculum Learning, Subword Tokenization, Language Modeling.
