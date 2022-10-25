@@ -13,7 +13,7 @@ Hello. I am Sugyeong Eo. I am a Ph.D candidate in computer science and engineeri
 Natural Language Processing, Neural Machine Translation, Quality Estimation, Critical Error Detection, Question-Answer pair Generation (Question Generation), Curriculum Learning, Subword Tokenization, Language Modeling.
 
 
-## Professional Experience
+## Education
 2020.09 - : Graduate, Major in Computer Science and Engineering at Korea University <br>
 2016.02 - 2020.08: Undergraduate, Received Bachelor of Arts and Language Science degree from Hankuk University of Foreign Studies (HUFS) <br>
 
