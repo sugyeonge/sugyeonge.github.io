@@ -1,22 +1,23 @@
 ---
 layout: home
 title: Welcome to Sugyeong's Page!
-subtitle: 어수경의 페이지
 cover-img: background.JPG
 thumbnail-img: sugyeongeo.jpg
 ---
 
 ## About Me
 Hello, I am Sugyeong Eo! <br>
-I am a Ph.D candidate in computer science and engineering at Korea University. I belong to the Natural Language Processing & Artificial Intelligence Lab (NLP&AI Lab), and my advisor is Prof. Heuiseok Lim. I am the founder and CSO of KU-NMT Group. Feel free to contact me (The icons below will connect you and me)!
+I am a Ph.D student in computer science and engineering at Korea University. I belong to [NLP & AI Lab](http://nlp.korea.ac.kr/) (Advisor: Prof. Heuiseok Lim). I am the founder and CSO of [KU-NMT Group](http://kunmt.org/). Feel free to contact me (The icons below will connect you and me)!
 
 ## Research Interest
 Natural Language Processing, Neural Machine Translation, Quality Estimation, Critical Error Detection, Question-Answer pair Generation (Question Generation), Curriculum Learning, Subword Tokenization, Language Modeling.
 
-
 ## Education
 2020.09 - : Graduate, Major in Computer Science and Engineering at Korea University <br>
 2016.02 - 2020.08: Undergraduate, Received Bachelor of Arts and Language Science degree from Hankuk University of Foreign Studies (HUFS) <br>
+
+## Academic Services
+Program committee: NAACL 2022-Industry Track
 
 ## Publications
 ### Top Conference (Main)
@@ -139,8 +140,24 @@ Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 ### Domestic Patents
 1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon <br>
+Apply for a patent (10-2021-0156657)
 
 3. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
 HeuiSeok Lim, Hyeonseok Moon, Chanjun Park, **Sugyeong Eo** <br>
+Apply for a patent (10-2021-0118924)
+
+### Book Chapters
+1. Natural Langugae Processing Bible <br>
+HeuiSeok Lim, Korea University NLP&AI Lab <br>
+Human Science <br>
+
+### Honors & Awards
+- 1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022) <br>
+- Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022) <br>
+- Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section <br>
+- Ranked 4th on the CommonGen 1.1 Leaderboard (Nov. 2022 Ranked 7th, CommonGen 1.1) <br>
+
+### Invited Talk
+- Basic practice of natural language processing for everyone (PLACE: Hankuk University of Foreign Studies/ YEAR: 2022.07)
 
 <br><br><br>
