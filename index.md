@@ -120,46 +120,32 @@ Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 *Applied Sciences, 2021*<br>
 
 ### Domestic Conference & Journal
-#### (Only 1st author, further papers can be found in my Google Scholar)
-1. [Best Paper(우수논문)] KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋 (KoCED: English-Korean Critical Error Detection Dataset) (Will Be Published) <br>
-**Sugyeong Eo**, Suwon Choi, Seonmin Koo, Dahyun Jung, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Jeongbae Park, Heuiseok Lim <br>
-*Annual Conference on Human & Cognitive Language Technology, 2022* <br>
+Conference: 10 Journal: 10 <br>
+#### (Only 1st author, further papers can be found in my Google Scholar) <br>
 
-2. [Zero-Shot 기반 기계번역 품질 예측 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002777668) (Study on Zero-shot based Quality Estimation) <br>
-**Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society, 2021* <br>
-
-3. [최신 기계번역 품질 예측 연구](https://koreascience.kr/article/JAKO202123162176745.page) (Research on Recent Quality Estimation) <br>
-**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society, 2021*
-
-4. [한국어 인공신경망 기계번역의 서브 워드 분절 연구 및 음절 기반 종성 분리 토큰화 제안](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002696269) (Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables) <br>
-**Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society, 2021* <br>
-
-### Domestic Patents
+## Domestic Patents
 1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon <br>
-Apply for a patent (10-2021-0156657)
+Apply for a patent (10-2021-0156657) <br>
 
 3. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
 HeuiSeok Lim, Hyeonseok Moon, Chanjun Park, **Sugyeong Eo** <br>
-Apply for a patent (10-2021-0118924)
+Apply for a patent (10-2021-0118924) <br>
 
-### Book Chapters
+## Book Chapters
 1. Natural Langugae Processing Bible <br>
 HeuiSeok Lim, Korea University NLP&AI Lab <br>
 Human Science <br>
 
-### Honors & Awards
+## Honors & Awards
 - 1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022) <br>
 - Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022) <br>
-    ▶️ Paper: KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋 (KoCED: English-Korean Critical Error Detection Dataset)
+    ▶️ Paper: KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋 (KoCED: English-Korean Critical Error Detection Dataset) <br>
 - Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section <br>
-    ▶️ Paper: KommonGen: 한국어 생성 모델의 상식 추론 평가 데이터셋 (KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation)
+    ▶️ Paper: KommonGen: 한국어 생성 모델의 상식 추론 평가 데이터셋 (KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation) <br>
 - Ranked 4th on the CommonGen 1.1 Leaderboard (Nov. 2022 Ranked 7th, CommonGen 1.1) <br>
 
-### Invited Talk
-- Basic practice of natural language processing for everyone (PLACE: Hankuk University of Foreign Studies/ YEAR: 2022.07)
+## Invited Talk
+- Basic practice of natural language processing for everyone (PLACE: Hankuk University of Foreign Studies/ YEAR: 2022.07) <br>
 
 <br><br><br>
