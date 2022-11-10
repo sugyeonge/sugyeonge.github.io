@@ -154,7 +154,9 @@ Human Science <br>
 ### Honors & Awards
 - 1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022) <br>
 - Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022) <br>
+    ▶️ Paper: KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋 (KoCED: English-Korean Critical Error Detection Dataset)
 - Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section <br>
+    ▶️ Paper: KommonGen: 한국어 생성 모델의 상식 추론 평가 데이터셋 (KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation)
 - Ranked 4th on the CommonGen 1.1 Leaderboard (Nov. 2022 Ranked 7th, CommonGen 1.1) <br>
 
 ### Invited Talk
