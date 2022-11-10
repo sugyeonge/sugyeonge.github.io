@@ -124,28 +124,29 @@ Conference: 10 Journal: 10 <br>
 #### (Only 1st author, further papers can be found in my Google Scholar) <br>
 
 ## Domestic Patents
-1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
+<span style="color:blue">*1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION*</span> <br>
 HeuiSeok Lim, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon <br>
 Apply for a patent (10-2021-0156657) <br>
 
-3. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
+<span style="color:blue">*2. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING*</span> <br>
 HeuiSeok Lim, Hyeonseok Moon, Chanjun Park, **Sugyeong Eo** <br>
 Apply for a patent (10-2021-0118924) <br>
 
 ## Book Chapters
-1. Natural Langugae Processing Bible <br>
+<span style="color:blue">* Natural Langugae Processing Bible*</span> <br>
 HeuiSeok Lim, Korea University NLP&AI Lab <br>
 Human Science <br>
 
 ## Honors & Awards
-- 1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022) <br>
-- Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022) <br>
+- <span style="color:blue">*1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022)*</span> <br>
+- <span style="color:blue">*Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022)*</span> <br>
     ▶️ Paper: KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋 (KoCED: English-Korean Critical Error Detection Dataset) <br>
-- Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section <br>
+- <span style="color:blue">*Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section*</span> <br>
     ▶️ Paper: KommonGen: 한국어 생성 모델의 상식 추론 평가 데이터셋 (KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation) <br>
-- Ranked 4th on the CommonGen 1.1 Leaderboard (Nov. 2022 Ranked 7th, CommonGen 1.1) <br>
+- <span style="color:blue">*Ranked 4th on the CommonGen 1.1 Leaderboard (Nov. 2022 Ranked 7th, CommonGen 1.1)*</span> <br>
 
 ## Invited Talk
-- Basic practice of natural language processing for everyone (PLACE: Hankuk University of Foreign Studies/ YEAR: 2022.07) <br>
+- <span style="color:blue">*Basic practice of natural language processing for everyone*</span> <br>
+    PLACE: Hankuk University of Foreign Studies/ YEAR: 2022.07) <br>
 
 <br><br><br>
