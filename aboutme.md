@@ -14,4 +14,4 @@ cover-img: gosim.jpeg
 - **NLP&AI Lab Homepage**: [LAB](http://nlp.korea.ac.kr/) <br>
 - **Korea University Neural Machine Translation (KU NMT) Group Homepage**: [KU NMT](http://kunmt.org/) <br>
 
-**Address**: #311 Aegineung Student Center, College of Informatics, Korea University, 145 Anam-ro, Seongbuk-gu, Seoul, 02841, Korea <br>
+- **Address**: #311 Aegineung Student Center, College of Informatics, Korea University, 145 Anam-ro, Seongbuk-gu, Seoul, 02841, Korea <br>
