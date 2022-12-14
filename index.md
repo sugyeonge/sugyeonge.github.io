@@ -21,7 +21,7 @@ Program committee: NAACL 2022-Industry Track
 
 ## Publications
 ### Top Conference (Main)
-1. KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task (Will Be Published) <br>
+1. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://www.statmt.org/wmt22/pdf/2022.wmt-1.56.pdf) <br>
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *Conference on Machine Translation (WMT) 2022*<br>
 
