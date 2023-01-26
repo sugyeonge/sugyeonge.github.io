@@ -132,7 +132,7 @@ HeuiSeok Lim, Hyeonseok Moon, Chanjun Park, **Sugyeong Eo** <br>
 Apply for a patent (10-2021-0118924) <br>
 
 ## Book Chapters
-<span style="color:blue">*Natural Langugae Processing Bible*</span> <br>
+<span style="color:blue">*Natural Language Processing Bible*</span> <br>
 HeuiSeok Lim, Korea University NLP&AI Lab <br>
 Human Science <br>
 
