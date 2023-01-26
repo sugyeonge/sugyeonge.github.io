@@ -14,7 +14,7 @@ Natural Language Processing, Neural Machine Translation, Quality Estimation, Cri
 
 ## Education
 2020.09 - : Graduate, Major in Computer Science and Engineering at Korea University <br>
-2016.02 - 2020.08: Undergraduate, Received Bachelor of Arts and Language Science degree from Hankuk University of Foreign Studies (HUFS) <br>
+2016.02 - 2020.08: Undergraduate, Received B.A. degree, Major in Linguistics and Cognitive Science(1st), Language and Technology(2nd) at Hankuk University of Foreign Studies (HUFS) <br>
 
 ## Academic Services
 Program committee: NAACL 2022-Industry Track
@@ -121,7 +121,6 @@ Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 
 ### Domestic Conference & Journal
 Conference: 10 Journal: 10 <br>
-#### (Only 1st author, further papers can be found in my Google Scholar) <br>
 
 ## Domestic Patents
 <span style="color:blue">*1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION*</span> <br>
@@ -138,6 +137,7 @@ HeuiSeok Lim, Korea University NLP&AI Lab <br>
 Human Science <br>
 
 ## Honors & Awards
+- <span style="color:blue">*Received Naver Ph.D. Fellowship 2022*</span> <br>
 - <span style="color:blue">*1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022)*</span> <br>
 - <span style="color:blue">*Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022)*</span> <br>
     ▶️ Paper: KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋 (KoCED: English-Korean Critical Error Detection Dataset) <br>
