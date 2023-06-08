@@ -21,27 +21,31 @@ Program committee: NAACL 2022-Industry Track
 
 ## Publications
 ### Top Conference (Main)
-1. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://www.statmt.org/wmt22/pdf/2022.wmt-1.56.pdf) <br>
+1. Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks (Will be published) <br>
+**Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim, Songeun Lee, Changwoo Chun, Sungsoo Park, Heuiseok Lim <br>
+*ACL 2023 - Findings*<br>
+
+2. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://www.statmt.org/wmt22/pdf/2022.wmt-1.56.pdf) <br>
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *Conference on Machine Translation (WMT)22*<br>
 
-2. [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460.pdf) <br>
+3. [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460.pdf) <br>
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim <br>
 *COLING 2022*<br>
 
-3. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
+4. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
 Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, **Sugyeong Eo**, Seonmin Koo, Heuiseok Lim <br>
 *NAACL 2022 - Findings*<br>
 
-4. [Priming Ancient Korean Neural Machine Translation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.3.pdf) <br>
+5. [Priming Ancient Korean Neural Machine Translation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.3.pdf) <br>
 Chanjun Park, Seolhwa Lee, Hyeonseok Moon, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 *LREC 2022, 2022*<br>
 
-5. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
+6. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
 Hyeonseok Moon, Chanjun Park, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, **Sugyeong Eo**, Heuiseok Lim <br>
 *LREC 2022, 2022*<br>
 
-6. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
+7. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 Chanjun Park, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
