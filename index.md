@@ -10,7 +10,7 @@ Hello, I am Sugyeong Eo! <br>
 I am a Ph.D student in computer science and engineering at Korea University. I belong to [NLP & AI Lab](http://nlp.korea.ac.kr/) (Advisor: Prof. Heuiseok Lim). I am the founder and CSO of [KU-NMT Group](http://kunmt.org/). Feel free to contact me (The icons below will connect you and me)!
 
 ## Research Interest
-Natural Language Processing, Neural Machine Translation, Quality Estimation, Critical Error Detection, Question-Answer pair Generation (Question Generation), Curriculum Learning, Subword Tokenization, Language Modeling.
+Natural Language Processing, Neural Machine Translation, Quality Estimation, Question-Answer pair Generation (Question Generation), Curriculum Learning, Hallucination.
 
 ## Education
 2020.09 - : Graduate, Major in Computer Science and Engineering at Korea University <br>
