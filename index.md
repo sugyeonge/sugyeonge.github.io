@@ -18,10 +18,12 @@ Natural Language Processing, Neural Machine Translation, Quality Estimation, Cri
 
 ## Academic Services
 Program committee: NAACL 2022-Industry Track
+Program committee: ACL 2023
+Program committee: EMNLP 2023
 
 ## Publications
 ### Top Conference (Main)
-1. Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks (Will be published) <br>
+1. [Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks](https://aclanthology.org/2023.findings-acl.380.pdf) <br>
 **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim, Songeun Lee, Changwoo Chun, Sungsoo Park, Heuiseok Lim <br>
 *ACL 2023 - Findings*<br>
 
