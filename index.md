@@ -17,9 +17,9 @@ Natural Language Processing, Neural Machine Translation, Quality Estimation, Que
 2016.02 - 2020.08: Undergraduate, Received B.A. degree, Major in Linguistics and Cognitive Science(1st), Language and Technology(2nd) at Hankuk University of Foreign Studies (HUFS) <br>
 
 ## Academic Services
-Program committee: NAACL 2022-Industry Track
-Program committee: ACL 2023
-Program committee: EMNLP 2023
+Program committee: NAACL 2022-Industry Track <br>
+Program committee: ACL 2023 <br>
+Program committee: EMNLP 2023 <br>
 
 ## Publications
 ### Top Conference (Main)
