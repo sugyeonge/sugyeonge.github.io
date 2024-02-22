@@ -24,27 +24,27 @@ Program committee: EMNLP 2023 <br>
 ## Publications
 ### Top Conference (Main)
 1. [KNOTICED: A Dataset for Critical Error Detection in English-Korean Machine Translation]() <br>
-**Sugyeong Eo**, Jungwoo Lim, Chanjun Park, Dahyun Jung, Seonmin Koo, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim
+**Sugyeong Eo**, Jungwoo Lim, Chanjun Park, Dahyun Jung, Seonmin Koo, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *LREC-COLING 2024* <br>
 
-2. Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation() <br>
-Hyeonseok Moon, Jaewook Lee, **Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Heuiseok Lim
+2. Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation <br>
+Hyeonseok Moon, Jaewook Lee, **Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Heuiseok Lim <br>
 *EACL 2024* <br>
 
 3. Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing <br>
-Chanjun Park, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, **Sugyeong Eo**, Chanhee Lee, Heuiseok Lim
+Chanjun Park, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, **Sugyeong Eo**, Chanhee Lee, Heuiseok Lim <br>
 *EACL 2024* <br>
 
 4. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/) <br>
-Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim
+Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim <br>
 *EMNLP 2023*<br>
 
 5. [CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients](https://aclanthology.org/2023.emnlp-main.367/) <br>
-Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, **Sugyeong Eo**, Chanjun Park, Heuiseok Lim
+Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, **Sugyeong Eo**, Chanjun Park, Heuiseok Lim <br>
 *EMNLP 2023* <br>
  
 6. [Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection](https://aclanthology.org/2023.ijcnlp-main.22/) <br>
-DaHyun Jung, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim
+DaHyun Jung, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *IJCNLP-AACL 2023* <br>
 
 7. [Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks](https://aclanthology.org/2023.findings-acl.380.pdf) <br>
@@ -52,7 +52,7 @@ DaHyun Jung, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuise
 *ACL 2023 - Findings*<br>
 
 8. [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education](https://aclanthology.org/2023.acl-demo.18/) <br>
-Seungjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, **Sugyeong Eo**, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim
+Seungjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, **Sugyeong Eo**, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim <br>
 *ACL 2023 - Demo*<br>
 
 9. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://www.statmt.org/wmt22/pdf/2022.wmt-1.56.pdf) <br>
@@ -81,11 +81,11 @@ Chanjun Park, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim<br>
 
 ### Top Conference (Workshop)
 1. [Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline](https://arxiv.org/abs/2401.14625) <br>
-Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim
+Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim <br>
 *ICML 2023 - DataPerf workshop* <br>
 
 2. [Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction](https://arxiv.org/pdf/2306.14377v1.pdf) <br>
-Chanjun Park, Seonmin Koo, Seolhwa Lee, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim
+Chanjun Park, Seonmin Koo, Seolhwa Lee, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim <br>
 *ICML 2023 - DataPerf workshop* <br>
 
 3. [Focus on FoCus: Is FoCus focused on Context, Knowledge and Persona?](https://aclanthology.org/2022.ccgpk-1.1.pdf) <br>
@@ -93,7 +93,7 @@ SeungYoon Lee, Jungseob Lee, Chanjun Park, **Sugyeong Eo**, Hyeonseok Moon, Jaeh
 *COLING 2022 - The 1st Workshop on Customized Chat Grounding Persona and Knowledge*<br>
 
 4. [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
-Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Seungjun Lee, Heuiseok Lim
+Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Seungjun Lee, Heuiseok Lim <br>
 *ICML 2022 – DataPerf workshop*<br>
 
 5. [How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus](https://arxiv.org/abs/2111.00191) <br>
@@ -118,19 +118,19 @@ Chanjun Park, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, **Sugyeong
 
 ### International Journal (SCI/SCIE)
 1. [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394/) <br>
-Seonmin Koo, Chanjun Park, Seolhwa Lee, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim
+Seonmin Koo, Chanjun Park, Seolhwa Lee, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim <br>
 *IEEE Access, 2023*<br>
 
 2. [Doubts on the reliability of parallel corpus filtering](https://www.sciencedirect.com/science/article/pii/S0957417423014641)<br>
-Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, **Sugyeong Eo**, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim
+Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, **Sugyeong Eo**, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
 *ESWA, 2023*<br>
 
 3. [A Survey on Evaluation Metrics for Machine Translation](https://www.mdpi.com/2227-7390/11/4/1006)<br>
-Seungjun Lee, Jungseob Lee, Hyeonseok Moon, Chanjun Park, Jaehyung Seo, **Sugyeong Eo**,Seonmin Koo, Heuiseok Lim
+Seungjun Lee, Jungseob Lee, Hyeonseok Moon, Chanjun Park, Jaehyung Seo, **Sugyeong Eo**,Seonmin Koo, Heuiseok Lim <br>
 *Mathematics, 2023*<br>
 
 4. [Enhancing Machine Translation Quality Estimation via Fine-grained Error Analysis and Large Language Model](https://www.mdpi.com/2227-7390/11/19/4169)<br>
-Dahyun Jung, Chanjun Park, **Sugyeong Eo**, Heuiseok Lim
+Dahyun Jung, Chanjun Park, **Sugyeong Eo**, Heuiseok Lim <br>
 *Mathematics, 2023*<br>
 
 5. [Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners](https://ieeexplore.ieee.org/document/9913979) <br>
@@ -182,8 +182,8 @@ Conference: 13 Journal: 10 <br>
 
 ## Domestic Patents
 <span style="color:blue">*1. DIVERSE AND EFFECTIVE QUESTION-ANSWER PAIR GENERATION SYSTEMS FOR EDUCATION*</span> <br>
-HeuiSeok Lim, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon <br>
-Apply for a patent (10-2021-0156657) <br>
+HeuiSeok Lim, **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim <br>
+Apply for a patent (10-2023-0024355) <br>
 
 <span style="color:blue">*1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION*</span> <br>
 HeuiSeok Lim, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon <br>
