@@ -195,19 +195,19 @@ Conference: 13 Journal: 10 <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 해외특허출원완료 (10-2024-0194707) <br>
 
-<span style="color:blue">*1. 	클러스터 정보 기반 전문가 혼합 학습 시스템*</span> <br>
+<span style="color:blue">*2. 	클러스터 정보 기반 전문가 혼합 학습 시스템*</span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 국내특허출원완료 (10-2024-0194707) <br>
 
-<span style="color:blue">*1. 유형 다양성을 고려한 교육용 질의응답쌍 생성 시스템*</span> <br>
+<span style="color:blue">*3. 유형 다양성을 고려한 교육용 질의응답쌍 생성 시스템*</span> <br>
 Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim <br>
 국내특허출원완료 (10-2023-0024355) <br>
 
-<span style="color:blue">*1. 프롬프트를 활용한 기계번역 결과 치명적 오류 감지 방법 및 장치*</span> <br>
+<span style="color:blue">*4. 프롬프트를 활용한 기계번역 결과 치명적 오류 감지 방법 및 장치*</span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 국내특허출원완료 (10-2022-0161686) <br>
 
-<span style="color:blue">*2. 기계 번역 품질 예측을 위한 학습 데이터 생성 장치 및 방법*</span> <br>
+<span style="color:blue">*5. 기계 번역 품질 예측을 위한 학습 데이터 생성 장치 및 방법*</span> <br>
 Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Chanjun Park <br>
 국내특허등록완료 (10-2593447) <br>
 
