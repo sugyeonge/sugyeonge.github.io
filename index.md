@@ -191,17 +191,25 @@ Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 Conference: 13 Journal: 10 <br>
 
 ## Domestic Patents
-<span style="color:blue">*1. DIVERSE AND EFFECTIVE QUESTION-ANSWER PAIR GENERATION SYSTEMS FOR EDUCATION*</span> <br>
-HeuiSeok Lim, **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim <br>
-Apply for a patent (10-2023-0024355) <br>
+<span style="color:blue">*1. DEVICE AND METHOD FOR GENERATION OF DIVERSE QUESTION-ANSWER PAIR*</span> <br>
+Heuiseok Lim, **Sugyeong Eo** <br>
+해외특허출원완료 (10-2024-0194707) <br>
 
-<span style="color:blue">*1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION*</span> <br>
-HeuiSeok Lim, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon <br>
-10-2023-0071825, 10-2593-447 <br>
+<span style="color:blue">*1. 	클러스터 정보 기반 전문가 혼합 학습 시스템*</span> <br>
+Heuiseok Lim, **Sugyeong Eo** <br>
+국내특허출원완료 (10-2024-0194707) <br>
 
-<span style="color:blue">*2. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING*</span> <br>
-HeuiSeok Lim, Hyeonseok Moon, Chanjun Park, **Sugyeong Eo** <br>
-Apply for a patent (10-2021-0118924) <br>
+<span style="color:blue">*1. 유형 다양성을 고려한 교육용 질의응답쌍 생성 시스템*</span> <br>
+Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim <br>
+국내특허출원완료 (10-2023-0024355) <br>
+
+<span style="color:blue">*1. 프롬프트를 활용한 기계번역 결과 치명적 오류 감지 방법 및 장치*</span> <br>
+Heuiseok Lim, **Sugyeong Eo** <br>
+국내특허출원완료 (10-2022-0161686) <br>
+
+<span style="color:blue">*2. 기계 번역 품질 예측을 위한 학습 데이터 생성 장치 및 방법*</span> <br>
+Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Chanjun Park <br>
+국내특허등록완료 (10-2593447) <br>
 
 ## Book Chapters
 <span style="color:blue">*Natural Language Processing Bible*</span> <br>
