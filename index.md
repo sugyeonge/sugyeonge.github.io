@@ -7,10 +7,10 @@ thumbnail-img: sugyeongeo.jpg
 
 ## About Me
 Hello, I am Sugyeong Eo! <br>
-I am a Ph.D student in computer science and engineering at Korea university. I belong to [NLP & AI Lab](http://nlp.korea.ac.kr/) (Advisor: Prof. Heuiseok Lim). I am the founder and CSO of [KU-NMT Group](http://kunmt.org/). Feel free to contact me!
+I am a Ph.D candidate in computer science and engineering at Korea university. I belong to [NLP & AI Lab](http://nlp.korea.ac.kr/) (Advisor: Prof. Heuiseok Lim). I am the founder and CSO of [KU-NMT Group](http://kunmt.org/). Feel free to contact me!
 
 ## Research Interest
-Natural Language Processing, Neural Machine Translation, Quality Estimation, Question-Answer pair Generation (Question Generation), Curriculum Learning, Hallucination.
+Natural Language Processing, AI Agent, Mixture-of-Experts Modeling, Neural Machine Translation, Quality Estimation, Question-Answer pair Generation (Question Generation)
 
 ## Education
 2020.09 - : Graduate, Major in Computer Science and Engineering at Korea University <br>
@@ -20,62 +20,72 @@ Natural Language Processing, Neural Machine Translation, Quality Estimation, Que
 Program committee: NAACL 2022-Industry Track <br>
 Program committee: ACL 2023 <br>
 Program committee: EMNLP 2023 <br>
+Program committee: NAACL 2024 <br>
+Program committee: ACL 2025 <br>
 
 ## Publications
 ### Top Conference (Main)
-1. [KNOTICED: A Dataset for Critical Error Detection in English-Korean Machine Translation]() <br>
+1. [Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation]() <br>
 **Sugyeong Eo**, Jungwoo Lim, Chanjun Park, Dahyun Jung, Seonmin Koo, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *LREC-COLING 2024* <br>
 
-2. Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation <br>
+2. [Towards precise localization of critical errors in machine translation]() <br>
+Dahyun Jung, **Sugyeong Eo**, Chanjun Park, Heuiseok Lim <br>
+*ACL 2024-Findings* <br>
+
+3. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation]() <br>
+Jungseob Lee, Hyeonseok Moon, Seungyoon Lee, Chanjun Park, **Sugyeong Eo**, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim <br>
+*ACL 2024-Findings* <br>
+
+4. [Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing]() <br>
+Chanjun Park, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, **Sugyeong Eo**, Chanhee Lee, Heuiseok Lim <br>
+*EACL 2024-Findings* <br>
+
+5. Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation <br>
 Hyeonseok Moon, Jaewook Lee, **Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Heuiseok Lim <br>
 *EACL 2024* <br>
 
-3. Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing <br>
-Chanjun Park, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, **Sugyeong Eo**, Chanhee Lee, Heuiseok Lim <br>
-*EACL 2024* <br>
-
-4. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/) <br>
+6. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/) <br>
 Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim <br>
 *EMNLP 2023*<br>
 
-5. [CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients](https://aclanthology.org/2023.emnlp-main.367/) <br>
+7. [CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients](https://aclanthology.org/2023.emnlp-main.367/) <br>
 Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, **Sugyeong Eo**, Chanjun Park, Heuiseok Lim <br>
 *EMNLP 2023* <br>
  
-6. [Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection](https://aclanthology.org/2023.ijcnlp-main.22/) <br>
+8. [Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection](https://aclanthology.org/2023.ijcnlp-main.22/) <br>
 DaHyun Jung, **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *IJCNLP-AACL 2023* <br>
 
-7. [Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks](https://aclanthology.org/2023.findings-acl.380.pdf) <br>
+9. [Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks](https://aclanthology.org/2023.findings-acl.380.pdf) <br>
 **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim, Songeun Lee, Changwoo Chun, Sungsoo Park, Heuiseok Lim <br>
 *ACL 2023 - Findings*<br>
 
-8. [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education](https://aclanthology.org/2023.acl-demo.18/) <br>
+10. [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education](https://aclanthology.org/2023.acl-demo.18/) <br>
 Seungjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, **Sugyeong Eo**, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim <br>
 *ACL 2023 - Demo*<br>
 
-9. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://www.statmt.org/wmt22/pdf/2022.wmt-1.56.pdf) <br>
+11. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://www.statmt.org/wmt22/pdf/2022.wmt-1.56.pdf) <br>
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *WMT 2022*<br>
 
-10. [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460.pdf) <br>
+12. [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460.pdf) <br>
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim <br>
 *COLING 2022*<br>
 
-11. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
+13. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
 Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, **Sugyeong Eo**, Seonmin Koo, Heuiseok Lim <br>
 *NAACL 2022 - Findings*<br>
 
-12. [Priming Ancient Korean Neural Machine Translation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.3.pdf) <br>
+14. [Priming Ancient Korean Neural Machine Translation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.3.pdf) <br>
 Chanjun Park, Seolhwa Lee, Hyeonseok Moon, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 *LREC 2022*<br>
 
-13. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
+15. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
 Hyeonseok Moon, Chanjun Park, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, **Sugyeong Eo**, Heuiseok Lim <br>
 *LREC 2022*<br>
 
-14. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
+16. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 Chanjun Park, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track- (Poster/Oral presentation)*<br>
 
