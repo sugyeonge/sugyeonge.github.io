@@ -201,7 +201,7 @@ Conference: 13 Journal: 10 <br>
 ## Domestic Patents
 <span style="color:blue">*1. DEVICE AND METHOD FOR GENERATION OF DIVERSE QUESTION-ANSWER PAIR*</span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
-해외특허출원완료 (10-2024-0194707) <br>
+해외특허출원완료 (18/585,166) <br>
 
 <span style="color:blue">*2. 	클러스터 정보 기반 전문가 혼합 학습 시스템*</span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
