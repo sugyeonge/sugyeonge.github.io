@@ -148,57 +148,57 @@ Chanjun Park, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, **Sugyeong
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *Applied Sciences, 2021*<br>
 
-3. [Exploiting Hanja-based Resources in Processing Korean Historic Documents Written by Common Literati](https://ieeexplore.ieee.org/document/10504272) <br>
+3. [Empirical Analysis of Parallel Corpora and In-Depth Analysis Using LIWC](https://arxiv.org/abs/2110.15023) <br>
+Chanjun Park, Midan Shim, **Sugyeong Eo (Co-author)**, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
+*Applied Sciences, 2021*<br>
+
+4. [Exploiting Hanja-based Resources in Processing Korean Historic Documents Written by Common Literati](https://ieeexplore.ieee.org/document/10504272) <br>
 Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, **Sugyeong Eo**, Chanjun Park, Yeongwook Yang, Heuiseok Lim
 *IEEE Access, 2024*<br>
 
-4. [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394/) <br>
+5. [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394/) <br>
 Seonmin Koo, Chanjun Park, Seolhwa Lee, Jaehyung Seo, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim <br>
 *IEEE Access, 2023*<br>
 
-5. [Doubts on the reliability of parallel corpus filtering](https://www.sciencedirect.com/science/article/pii/S0957417423014641)<br>
+6. [Doubts on the reliability of parallel corpus filtering](https://www.sciencedirect.com/science/article/pii/S0957417423014641)<br>
 Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, **Sugyeong Eo**, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
 *ESWA, 2023*<br>
 
-6. [A Survey on Evaluation Metrics for Machine Translation](https://www.mdpi.com/2227-7390/11/4/1006)<br>
+7. [A Survey on Evaluation Metrics for Machine Translation](https://www.mdpi.com/2227-7390/11/4/1006)<br>
 Seungjun Lee, Jungseob Lee, Hyeonseok Moon, Chanjun Park, Jaehyung Seo, **Sugyeong Eo**,Seonmin Koo, Heuiseok Lim <br>
 *Mathematics, 2023*<br>
 
-7. [Enhancing Machine Translation Quality Estimation via Fine-grained Error Analysis and Large Language Model](https://www.mdpi.com/2227-7390/11/19/4169)<br>
+8. [Enhancing Machine Translation Quality Estimation via Fine-grained Error Analysis and Large Language Model](https://www.mdpi.com/2227-7390/11/19/4169)<br>
 Dahyun Jung, Chanjun Park, **Sugyeong Eo**, Heuiseok Lim <br>
 *Mathematics, 2023*<br>
 
-8. [Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners](https://ieeexplore.ieee.org/document/9913979) <br>
+9. [Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners](https://ieeexplore.ieee.org/document/9913979) <br>
 Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, **Sugyeong Eo**, Chanjun Park, Jihoon Kim, Changwoo Chun, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
-9. [PU-GEN: Enhancing Generative Commonsense Reasoning for Language Models with Human-Centered Knowledge](https://www.sciencedirect.com/science/article/pii/S0950705122009546) <br>
+10. [PU-GEN: Enhancing Generative Commonsense Reasoning for Language Models with Human-Centered Knowledge](https://www.sciencedirect.com/science/article/pii/S0950705122009546) <br>
 Jaehyung Seo, Dongsuk Oh, **Sugyeong Eo**, Chanjun Park, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim <br>
 *Knowledge-Based Systems, 2022*<br>
 
-10. [BERTOEIC: Solving TOEIC Problems Using Simple and Efficient Data Augmentation Techniques with Pretrained Transformer Encoders](https://www.mdpi.com/2076-3417/12/13/6686) <br>
+11. [BERTOEIC: Solving TOEIC Problems Using Simple and Efficient Data Augmentation Techniques with Pretrained Transformer Encoders](https://www.mdpi.com/2076-3417/12/13/6686) <br>
 Jeongwoo Lee, Hyeonseok Moon, Chanjun Park, Jaehyung Seo, **Sugyeong Eo**, Heuiseok Lim <br>
 *Applied Sciences, 2022*<br>
 
-11. [Return on Advertising Spend Prediction with Task Decomposition-based LSTM Model](https://www.mdpi.com/2227-7390/10/10/1637) <br>
+12. [Return on Advertising Spend Prediction with Task Decomposition-based LSTM Model](https://www.mdpi.com/2227-7390/10/10/1637) <br>
 Hyeonseok Moon, Taemin Lee, Jaehyung Seo, Chanjun Park, **Sugyeong Eo**, Imatitikua D. AIyanyo, Jeongbae Park, Aram So, Kyoungwha Ok, Kinam Park <br>
 *Mathematics, 2022*<br>
 
-12. [Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions](https://www.mdpi.com/2227-7390/10/8/1335) <br>
+13. [Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions](https://www.mdpi.com/2227-7390/10/8/1335) <br>
 Jaehyung Seo, Taemin Lee, Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Imatitikua D AIyanyo, Kinam Park, Aram So, Sungmin Ahn, Jeongbae Park <br>
 *Mathematics, 2022* <br>
 
-13. [Mimicking Infants’ Bilingual Language Acquisition for Domain Specialized Neural Machine Translation](https://ieeexplore.ieee.org/document/9751075)<br>
+14. [Mimicking Infants’ Bilingual Language Acquisition for Domain Specialized Neural Machine Translation](https://ieeexplore.ieee.org/document/9751075)<br>
 Chanjun Park, Woo-Young Go, **Sugyeong Eo**, Hyeonseok Moon, Seolhwa Lee, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
-14. [An Automatic Post Editing with Efficient and Simple Data Generation Method](https://ieeexplore.ieee.org/document/9714400)<br>
+15. [An Automatic Post Editing with Efficient and Simple Data Generation Method](https://ieeexplore.ieee.org/document/9714400)<br>
 Hyeonseok Moon, Chanjun Park, Jaehyung Seo, **Sugyeong Eo**, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
-
-15. [Empirical Analysis of Parallel Corpora and In-Depth Analysis Using LIWC](https://arxiv.org/abs/2110.15023) <br>
-Chanjun Park, Midan Shim, **Sugyeong Eo**, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
-*arxiv, 2021*<br>
 
 16. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
 Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
