@@ -304,7 +304,7 @@ Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim<br>
 
 8. Recent Automatic Post Editing Research (최신 기계번역 사후 교정 연구)<br>
 Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021*<br>
+*Journal of Digital Convergence, 2021*<br>
 
 9. Filter-mBART based Neural Machine Translation Using Parallel Corpus Filtering (병렬 말뭉치 필터링을 적용한 Filter-mBART기반 기계번역 연구)<br>
 Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, JeongBae Park, Heuiseok Lim<br>
