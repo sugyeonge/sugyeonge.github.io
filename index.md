@@ -1,4 +1,4 @@
-<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/d90e930a-cbe5-417b-88f6-03b9a7041b6d" />---
+---
 layout: home
 title: Welcome to Sugyeong's Page!
 cover-img: background.JPG
