@@ -221,7 +221,7 @@ Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 **Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2021*<br>
 
-5.Design Neural Machine Translation Model Combining External Symbolic Knowledge (심볼릭 지식 정보를 결합한 뉴럴기계번역 모델 설계)<br>
+5. Design Neural Machine Translation Model Combining External Symbolic Knowledge (심볼릭 지식 정보를 결합한 뉴럴기계번역 모델 설계)<br>
 **Sugyeong Eo**, Chanjun Park, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2020*<br>
 
