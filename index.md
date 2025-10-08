@@ -21,18 +21,18 @@ Program committee: NAACL 2022-Industry Track <br>
 Program committee: ACL 2023 <br>
 Program committee: EMNLP 2023 <br>
 Program committee: NAACL 2024 <br>
-Program committee: ACL 2025 <br>
+Program committee: ACL/EMNLP 2025 <br>
 Program committee: AAAI 2026 <br>
 
 ## Publications
 ### Top Conference
 1. [Mixture-of-Clustered-Experts: Advancing Expert Specialization and Generalization in Instruction Tuning] <br>
 **Sugyeong Eo**, Jungjun Lee, Chanjun Park, Heuiseok Lim <br>
-*EMNLP 2025* <br>
+*EMNLP 2025 (Oral)* <br>
 
 2. [Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation](https://aclanthology.org/2024.lrec-main.421/) <br>
 **Sugyeong Eo**, Jungwoo Lim, Chanjun Park, Dahyun Jung, Seonmin Koo, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
-*LREC-COLING 2024* <br>
+*LREC-COLING 2024 (Oral)* <br>
 
 3. [Towards Diverse and Effective Question-Answer Pair Generation from Children Storybooks](https://aclanthology.org/2023.findings-acl.380.pdf) <br>
 **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim, Songeun Lee, Changwoo Chun, Sungsoo Park, Heuiseok Lim <br>
