@@ -6,8 +6,7 @@ thumbnail-img: sugyeongeo.jpg
 ---
 
 ## About Me
-Hello, I’m Sugyeong Eo, a Ph.D. candidate in Computer Science and Engineering at Korea University. <br>
-I am a member of the [NLP & AI Lab](http://nlp.korea.ac.kr/) under the supervision of Prof. Heuiseok Lim. <br>
+I am Sugyeong Eo, an Assistant Professor at Yonsei University (Mirae Campus), and I lead a (Natural Language Processing lab)[nlplab.yonsei.ac.kr]. <br>
 Feel free to reach out if you’d like to connect or collaborate!
 
 ## Research Interest
@@ -33,6 +32,10 @@ Program committee: AAAI/ACL 2026 <br>
 *Arxiv* <br>
 
 ### Top Conference
+- Unveiling the Limits of Large Language Models in Inferring Pragmatic Meaning from Non-Verbal Responses <br>
+**Sugyeong Eo**, Heuiseok Lim <br>
+*ACL 2026* <br>
+
 - [Mixture-of-Clustered-Experts: Advancing Expert Specialization and Generalization in Instruction Tuning](https://aclanthology.org/2025.emnlp-main.718/) <br>
 **Sugyeong Eo**, Jungjun Lee, Chanjun Park, Heuiseok Lim <br>
 *EMNLP 2025 (Oral)* <br>
