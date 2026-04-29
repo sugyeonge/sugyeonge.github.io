@@ -6,8 +6,9 @@ thumbnail-img: sugyeongeo.jpg
 ---
 
 ## About Me
-I am Sugyeong Eo, an Assistant Professor at Yonsei University (Mirae Campus), and I lead a [Natural Language Processing lab](nlplab.yonsei.ac.kr). <br>
+I am Sugyeong Eo, an Assistant Professor at Yonsei University (Mirae Campus), and I lead a [Natural Language Processing lab](https://nlplab.yonsei.ac.kr). <br>
 Feel free to reach out if you’d like to connect or collaborate!
+[연세대학교 미래캠퍼스 자연어처리 연구실]((https://nlplab.yonsei.ac.kr)) 홈페이지 바로가기
 
 ## Research Interest
 Natural Language Processing, Language Modeling, Neural Machine Translation, Quality Estimation, Question Generation
