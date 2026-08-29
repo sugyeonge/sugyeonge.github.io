@@ -41,7 +41,7 @@ Program committee: ACL 2023 <br>
 Program committee: EMNLP 2023 <br>
 Program committee: NAACL 2024 <br>
 Program committee: ACL/EMNLP 2025 <br>
-Program committee: AAAI/ACL/EMNLP 2026 <br>
+Program committee: AAAI/ACL/NeurIPS E&D/EMNLP 2026 <br>
 
 ## Publications
 
