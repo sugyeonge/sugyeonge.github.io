@@ -392,7 +392,7 @@ Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Chanjun Park <br>
 국내특허등록완료 (10-2021-0156657(출원)/10-2593447(등록)) <br>
 
 ## Book Chapters
-<span style="color:#305CDE">**Natural Language Processing Bible**</span> <br>
+- <span style="color:#305CDE">**Natural Language Processing Bible**</span> <br>
 HeuiSeok Lim, Korea University NLP&AI Lab <br>
 Human Science <br>
 
