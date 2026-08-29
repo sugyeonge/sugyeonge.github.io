@@ -5,6 +5,12 @@ cover-img: background.JPG
 thumbnail-img: sugyeongeo.jpg
 ---
 
+<style>
+.container-md {
+  max-width: 1000px !important;
+}
+</style>
+
 ## About Me
 I am Sugyeong Eo, an Assistant Professor at Yonsei University (Mirae Campus), and I lead a [Yonsei Mirae Natural Language Processing lab](https://nlplab.yonsei.ac.kr). <br>
 Feel free to reach out if you’d like to connect or collaborate! <br>
