@@ -362,7 +362,7 @@ Heuiseok Lim, **Sugyeong Eo** <br>
 
 <span style="color:blue">*유형 다양성을 고려한 교육용 질의응답쌍 생성 시스템*</span> <br>
 Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim <br>
-국내특허출원완료 (10-2024-0009742) <br>
+국내특허등록완료 (10-2024-0009742(출원)/10-3006988(등록)) <br>
 
 <span style="color:blue">*프롬프트를 활용한 기계번역 결과 치명적 오류 감지 방법 및 장치*</span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
