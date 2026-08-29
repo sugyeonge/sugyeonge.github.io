@@ -7,7 +7,7 @@ thumbnail-img: sugyeongeo.jpg
 
 <style>
 .container-md {
-  max-width: 1000px !important;
+  max-width: 1500px !important;
 }
 </style>
 
