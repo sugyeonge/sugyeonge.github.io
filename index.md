@@ -164,9 +164,16 @@ Chanjun Park, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, **Sugyeong
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop*<br>
 
 ### International Journal (SCI/SCIE)
+- [Rebalancing Curriculum Learning via In-Batch Difficulty Reallocation for Neural Machine Translation](https://doi.org/10.3390/math14101607) <br>
+**Sugyeong Eo**, Chanjun Park<br>
+*Mathematics, 2026*<br>
+
+- [External Knowledge-Guided Tuning for Critical Error Detection in Machine Translation](https://doi.org/10.3390/math14091484) <br>
+**Sugyeong Eo**, Chanjun Park<br>
+*Mathematics, 2026*<br>
 
 - [Exploiting Hanja-based Resources in Processing Korean Historic Documents Written by Common Literati](https://ieeexplore.ieee.org/document/10504272) <br>
-Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, **Sugyeong Eo**, Chanjun Park, Yeongwook Yang, Heuiseok Lim
+Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, **Sugyeong Eo**, Chanjun Park, Yeongwook Yang, Heuiseok Lim <br>
 *IEEE Access, 2024*<br>
 
 - [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394/) <br>
