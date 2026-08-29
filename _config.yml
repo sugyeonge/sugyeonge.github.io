@@ -45,10 +45,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "djtnrud@korea.ac.kr"
-  linkedin: "https://www.linkedin.com/in/sugyeong-eo-21a23015b/"
-  google-scholar: "https://scholar.google.com/citations?user=s4GjpoEAAAAJ&hl=en"
-  instagram: "sugyeonge"
+  email: "s.eo@yonsei.ac.kr"
+  linkedin: "sugyeong-eo-21a23015b"
+  google-scholar: "s4GjpoEAAAAJ"
+  instagram: ""
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 
 #  medium: yourname
@@ -89,7 +89,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.sugyeonge.com"
+url-pretty: "https://sugyeonge.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
