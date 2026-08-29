@@ -8,7 +8,6 @@ thumbnail-img: sugyeongeo.jpg
 ## About Me
 I am Sugyeong Eo, an Assistant Professor at Yonsei University (Mirae Campus), and I lead a [Yonsei Mirae Natural Language Processing lab](https://nlplab.yonsei.ac.kr). <br>
 Feel free to reach out if you’d like to connect or collaborate! <br>
-연세대학교 미래캠퍼스 자연어처리 연구실: [https://nlplab.yonsei.ac.kr](https://nlplab.yonsei.ac.kr) <br>
 
 ## Research Interest
 Natural Language Processing, Language Modeling, Neural Machine Translation, Quality Estimation, Question Generation
@@ -23,7 +22,7 @@ Program committee: ACL 2023 <br>
 Program committee: EMNLP 2023 <br>
 Program committee: NAACL 2024 <br>
 Program committee: ACL/EMNLP 2025 <br>
-Program committee: AAAI/ACL 2026 <br>
+Program committee: AAAI/ACL/EMNLP 2026 <br>
 
 ## Publications
 
@@ -33,7 +32,19 @@ Program committee: AAAI/ACL 2026 <br>
 *Arxiv* <br>
 
 ### Top Conference
-- Unveiling the Limits of Large Language Models in Inferring Pragmatic Meaning from Non-Verbal Responses <br>
+- Beyond Consensus: Downward Bias and Role Asymmetry in Multi-Agent LLM Judges for Subjective Evaluation <br>
+Minsoo Song,  Chanwoo Kim, **Sugyeong Eo(*)**, Chanjun Park(*) <br>
+*EMNLP 2026-Findings* <br>
+
+- EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents <br>
+Doyun Kim,  Chanwoo Kim, **Sugyeong Eo**, Yeochan Yoon, Chanjun Park <br>
+*EMNLP 2026* <br>
+
+- DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models <br>
+Jungseob Lee, Seongtae Hong, Seungjun Lee, Jaehyung Seo, Junyoung Son, **Sugyeong Eo**, Chanjun Park, Hyeongju Park, Hyeonseok Moon, Heuiseok Lim <br>
+*EMNLP 2026-Findings* <br>
+
+- [Unveiling the Limits of Large Language Models in Inferring Pragmatic Meaning from Non-Verbal Responses](https://aclanthology.org/2026.acl-long.2101/) <br>
 **Sugyeong Eo**, Heuiseok Lim <br>
 *ACL 2026* <br>
 
