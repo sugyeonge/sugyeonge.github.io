@@ -256,138 +256,138 @@ Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 *IEEE Access, 2021*<br>
 
 ### Domestic Conference
-- **A Method for Efficient Ensemble of Large Language Model (효율적인 거대 언어모델 앙상블을 위한 점진적 기법)** <br>
+- **<span style="color:#305CDE">A Method for Efficient Ensemble of Large Language Model (효율적인 거대 언어모델 앙상블을 위한 점진적 기법)</span>** <br>
 **Sugyeong Eo**, Chanjun Park, Yuna Hur, Heuiseok Lim <br>
 *Annual Conference on Human and Language Technology, 2024*<br>
 
-- **A Study on Proficiency in Solving Riddles of Large Language Models (초거대 언어모델의 재치에 관한 고찰: 수수께끼 해결 능력을 중심으로)** <br>
+- **<span style="color:#305CDE">A Study on Proficiency in Solving Riddles of Large Language Models (초거대 언어모델의 재치에 관한 고찰: 수수께끼 해결 능력을 중심으로)</span>** <br>
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Yuna Hur, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2023*<br>
 
-- **KoCED: English-Korean Critical Error Detection Dataset (KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋)** <br>
+- **<span style="color:#305CDE">KoCED: English-Korean Critical Error Detection Dataset (KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋)</span>** <br>
 **Sugyeong Eo**, Suwon Choi, Seonmin Koo, Dahyun Jung, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Jeongbae Park, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2022*<br>
 
-- **Word-level Korean-English Quality Estimation (단어 수준 한국어-영어 기계번역 품질 예측)** <br>
+- **<span style="color:#305CDE">Word-level Korean-English Quality Estimation (단어 수준 한국어-영어 기계번역 품질 예측)</span>** <br>
 **Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2021*<br>
 
-- **Design Neural Machine Translation Model Combining External Symbolic Knowledge (심볼릭 지식 정보를 결합한 뉴럴기계번역 모델 설계)** <br>
+- **<span style="color:#305CDE">Design Neural Machine Translation Model Combining External Symbolic Knowledge (심볼릭 지식 정보를 결합한 뉴럴기계번역 모델 설계)</span>** <br>
 **Sugyeong Eo**, Chanjun Park, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2020*<br>
 
-- **Mixture of Models: Towards Effective Domain Expert Ensemble of Large Language Models (Mixture of Models: 거대 언어모델 기반 효과적 도메인 전문가 앙상블 기법 연구)** <br>
+- **<span style="color:#305CDE">Mixture of Models: Towards Effective Domain Expert Ensemble of Large Language Models (Mixture of Models: 거대 언어모델 기반 효과적 도메인 전문가 앙상블 기법 연구)</span>** <br>
 Gyuho Shim, **Sugyeong Eo**, Seongtae Hong, Jinsung Kim, Sangyoon Jun, Hoondong Kim, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2024*<br>
 
-- **Empirical Study on the Hallucination of Large Language Models Derived by the Sentence-Closing Ending (어체에 따른 초거대언어모델의 한국어 환각 현상 분석)** <br>
+- **<span style="color:#305CDE">Empirical Study on the Hallucination of Large Language Models Derived by the Sentence-Closing Ending (어체에 따른 초거대언어모델의 한국어 환각 현상 분석)</span>** <br>
 Hyeonseok Moon, **Sugyeong Eo**, Jaehyung Seo, Chanjun Park, Yuna Hur, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2023*<br>
 
-- **Critical Error Span Detection Model of Korean Machine Translation (한국어 기계 번역에서의 품질 검증을 위한 치명적인 오류 범위 탐지 모델)** <br>
+- **<span style="color:#305CDE">Critical Error Span Detection Model of Korean Machine Translation (한국어 기계 번역에서의 품질 검증을 위한 치명적인 오류 범위 탐지 모델)</span>** <br>
 Dahyun Jung, Seungyoon Lee, **Sugyeong Eo**, Chanjun Park, Jaewook Lee, Kinam Park, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2023*<br>
 
-- **Korean Commonsense Reasoning Evaluation for Large Language Models (거대언어모델을 위한 한국어 상식추론 기반 평가)** <br>
+- **<span style="color:#305CDE">Korean Commonsense Reasoning Evaluation for Large Language Models (거대언어모델을 위한 한국어 상식추론 기반 평가)</span>** <br>
 Jaehyung Seo, Chanjun Park, Hyeonseok Moon, **Sugyeong Eo**, Aram So, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2023*<br>
 
-- **SaJuTeller: Conditional Generation Deep-Learning based Fortune Telling Model (SaJuTeller: 조건부 생성 모델을 기반으로 한 인공지능 사주 풀이 모델)** <br>
+- **<span style="color:#305CDE">SaJuTeller: Conditional Generation Deep-Learning based Fortune Telling Model (SaJuTeller: 조건부 생성 모델을 기반으로 한 인공지능 사주 풀이 모델)</span>** <br>
 Hyeonseok Moon, Jungseob Lee, Jaehyung Seo, **Sugyeong Eo**, Chanjun Park, Woohyeon Kim, Jeongbae Park, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2022*<br>
 
-- **Automatic Generation of Training Data for Korean Speech Recognition Post-Processor (한국어 음성인식 후처리기를 위한 학습 데이터 자동 생성 방안)** <br>
+- **<span style="color:#305CDE">Automatic Generation of Training Data for Korean Speech Recognition Post-Processor (한국어 음성인식 후처리기를 위한 학습 데이터 자동 생성 방안)</span>** <br>
 Seonmin Koo, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, **Sugyeong Eo**, Yuna Hur, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2022*<br>
 
-- **SRLev-BIH: An Evaluation Metric for Korean Generative Commonsense Reasoning (SRLev-BIH: 한국어 일반 상식 추론 및 생성 능력 평가 지표)** <br>
+- **<span style="color:#305CDE">SRLev-BIH: An Evaluation Metric for Korean Generative Commonsense Reasoning (SRLev-BIH: 한국어 일반 상식 추론 및 생성 능력 평가 지표)</span>** <br>
 Jaehyung Seo, Yoonna Jang, Jaewook Lee, Hyeonseok Moon, **Sugyeong Eo**, Chanjun Park, Aram So, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2022*<br>
 
-- **A Synthetic Dataset for Korean Knowledge Graph-to-Text Generation (한국어 지식 그래프-투-텍스트 생성을 위한 데이터셋 자동 구축)** <br>
+- **<span style="color:#305CDE">A Synthetic Dataset for Korean Knowledge Graph-to-Text Generation (한국어 지식 그래프-투-텍스트 생성을 위한 데이터셋 자동 구축)</span>** <br>
 Dahyun Jung, Seungyoon Lee, Seungjun Lee, Jaehyung Seo, **Sugyeong Eo**, Chanjun Park, Yuna Hur, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2022*<br>
 
-- **Verification of the Domain Specialized Automatic Post Editing Model (도메인 특화 기계번역 사후교정 모델 검증 연구)** <br>
+- **<span style="color:#305CDE">Verification of the Domain Specialized Automatic Post Editing Model (도메인 특화 기계번역 사후교정 모델 검증 연구)</span>** <br>
 Hyeonseok Moon, Chanjun Park, Jaehyeong Seo, **Sugyeong Eo**, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2021*<br>
 
-- **BackTranScription (BTS)-based Jeju Automatic Speech Recognition Post-processor Research (BackTranScription (BTS)기반 제주어 음성인식 후처리기 연구)** <br>
+- **<span style="color:#305CDE">BackTranScription (BTS)-based Jeju Automatic Speech Recognition Post-processor Research (BackTranScription (BTS)기반 제주어 음성인식 후처리기 연구)</span>** <br>
 Chanjun Park, Jaehyung Seo, Seolhwa Lee, Heonseok Moon, **Sugyeong Eo**, Yoonna Jang, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2021*<br>
 
-- **Kommongen: A Dataset for Korean Generative Commonsense Reasoning Evaluation (KommonGen: 한국어 생성 모델의 상식 추론 평가 데이터셋)** <br>
+- **<span style="color:#305CDE">Kommongen: A Dataset for Korean Generative Commonsense Reasoning Evaluation (KommonGen: 한국어 생성 모델의 상식 추론 평가 데이터셋)</span>** <br>
 Jaehyung Seo, Chanjun Park, Hyeonseok Moon, **Sugyeong Eo**, Myunghoon Kang, Seounghoon Lee, Heuiseok Lim
 *Annual Conference on Human and Language Technology, 2021*<br>
 
-- **Semi-supervised GPT2 for News Article Recommendation with Curriculum Learning (준 지도 학습과 커리큘럼 학습을 이용한 유사 기사 추천 모델)** <br>
+- **<span style="color:#305CDE">Semi-supervised GPT2 for News Article Recommendation with Curriculum Learning (준 지도 학습과 커리큘럼 학습을 이용한 유사 기사 추천 모델)</span>** <br>
 Jaehyung Seo, Dongsuk Oh, **Sugyeong Eo**, Sungjin Park, Heuiseok Lim<br>
 *Annual Conference on Human and Language Technology, 2020*<br>
 
 ### Domestic Journal
-- **Study on Zero-shot based Quality Estimation (Zero-Shot 기반 기계번역 품질 예측 연구)** <br>
+- **<span style="color:#305CDE">Study on Zero-shot based Quality Estimation (Zero-Shot 기반 기계번역 품질 예측 연구)</span>** <br>
 **Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021*<br>
 
-- **Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables (한국어 인공신경망 기계번역의 서브 워드 분절 연구 및 음절 기반 종성 분리 토큰화 제안)** <br>
+- **<span style="color:#305CDE">Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables (한국어 인공신경망 기계번역의 서브 워드 분절 연구 및 음절 기반 종성 분리 토큰화 제안)</span>** <br>
 **Sugyeong Eo**, Park Chanjun, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021*<br>
 
-- **Research on Recent Quality Estimation (최신 기계번역 품질 예측 연구)** <br>
+- **<span style="color:#305CDE">Research on Recent Quality Estimation (최신 기계번역 품질 예측 연구)</span>** <br>
 **Sugyeong Eo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim
 *Journal of the Korea Convergence Society, 2021*<br>
 
-- **Policy-based performance comparison study of Real-time Simultaneous Translation (실시간 동시통번역의 정책기반 성능 비교 연구)** <br>
+- **<span style="color:#305CDE">Policy-based performance comparison study of Real-time Simultaneous Translation (실시간 동시통번역의 정책기반 성능 비교 연구)</span>** <br>
 Jungseob Lee, Hyeonseok Moon, Chanjun Park, Jaehyung Seo, **Sugyeong Eo**, Seungjun Lee, Seonmin Koo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2022*<br>
 
-- **Study on Decoding Strategies in Neural Machine Translation (인공신경망 기계번역에서 디코딩 전략에 대한 연구)** <br>
+- **<span style="color:#305CDE">Study on Decoding Strategies in Neural Machine Translation (인공신경망 기계번역에서 디코딩 전략에 대한 연구)</span>** <br>
 Jaehyung Seo, Chanjun Park, **Sugyeong Eo**, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021*<br>
 
-- **A Study on Verification of Back TranScription (BTS)-based Data Construction (Back TranScription(BTS)기반 데이터 구축 검증 연구)** <br>
+- **<span style="color:#305CDE">A Study on Verification of Back TranScription (BTS)-based Data Construction (Back TranScription(BTS)기반 데이터 구축 검증 연구)</span>** <br>
 Chanjun Park, Jaehyung Seo, Seolhwa Lee, Hyeonseok Moon, **Sugyeong Eo**, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021*<br>
 
-- **The Verification of the Transfer Learning-based Automatic Post-Editing Model (전이학습 기반 기계번역 사후교정 모델 검증)** <br>
+- **<span style="color:#305CDE">The Verification of the Transfer Learning-based Automatic Post-Editing Model (전이학습 기반 기계번역 사후교정 모델 검증)</span>** <br>
 Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021*<br>
 
-- **Recent Automatic Post Editing Research (최신 기계번역 사후 교정 연구)** <br>
+- **<span style="color:#305CDE">Recent Automatic Post Editing Research (최신 기계번역 사후 교정 연구)</span>** <br>
 Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of Digital Convergence, 2021*<br>
 
-- **Filter-mBART based Neural Machine Translation Using Parallel Corpus Filtering (병렬 말뭉치 필터링을 적용한 Filter-mBART기반 기계번역 연구)** <br>
+- **<span style="color:#305CDE">Filter-mBART based Neural Machine Translation Using Parallel Corpus Filtering (병렬 말뭉치 필터링을 적용한 Filter-mBART기반 기계번역 연구)</span>** <br>
 Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, JeongBae Park, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021*<br>
 
-- **A Study on Performance Improvement Considering the Balance Between Corpus in Neural Machine Translation (인공신경망 기계번역에서 말뭉치 간의 균형성을 고려한 성능 향상 연구)** <br>
+- **<span style="color:#305CDE">A Study on Performance Improvement Considering the Balance Between Corpus in Neural Machine Translation (인공신경망 기계번역에서 말뭉치 간의 균형성을 고려한 성능 향상 연구)</span>** <br>
 Chanjun Park, Kinam Park, Hyeonseok Moon, **Sugyeong Eo**, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021*<br>
 
 
 ## Patents
-<span style="color:#305CDE">**신뢰도 기반 효율적인 다중 에이전트 협력을 위한 장치 및 방법** </span> <br>
+- <span style="color:#305CDE">**신뢰도 기반 효율적인 다중 에이전트 협력을 위한 장치 및 방법** </span> <br>
 Heuiseok Lim, **Sugyeong Eo**<br>
 국내특허출원완료 (10-2025-0087619	), 2025<br>
 
-<span style="color:#305CDE">**DEVICE AND METHOD FOR GENERATION OF DIVERSE QUESTION-ANSWER PAIR** </span> <br>
+- <span style="color:#305CDE">**DEVICE AND METHOD FOR GENERATION OF DIVERSE QUESTION-ANSWER PAIR** </span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 해외특허출원완료 (18/585,166) <br>
 
-<span style="color:#305CDE">**클러스터 정보 기반 전문가 혼합 학습 시스템** </span> <br>
+- <span style="color:#305CDE">**클러스터 정보 기반 전문가 혼합 학습 시스템** </span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 국내특허출원완료 (10-2024-0194707) <br>
 
-<span style="color:#305CDE">**유형 다양성을 고려한 교육용 질의응답쌍 생성 시스템**</span> <br>
+- <span style="color:#305CDE">**유형 다양성을 고려한 교육용 질의응답쌍 생성 시스템**</span> <br>
 Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim <br>
 국내특허등록완료 (10-2024-0009742(출원)/10-3006988(등록)) <br>
 
-<span style="color:#305CDE">**프롬프트를 활용한 기계번역 결과 치명적 오류 감지 방법 및 장치**</span> <br>
+- <span style="color:#305CDE">**프롬프트를 활용한 기계번역 결과 치명적 오류 감지 방법 및 장치**</span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 국내특허출원완료 (10-2022-0161686) <br>
 
-<span style="color:#305CDE">**기계 번역 품질 예측을 위한 학습 데이터 생성 장치 및 방법**</span> <br>
+- <span style="color:#305CDE">**기계 번역 품질 예측을 위한 학습 데이터 생성 장치 및 방법**</span> <br>
 Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Chanjun Park <br>
 국내특허등록완료 (10-2021-0156657(출원)/10-2593447(등록)) <br>
 
