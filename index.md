@@ -91,7 +91,7 @@ Chanjun Park, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, **Sugyeon
 Hyeonseok Moon, Jaewook Lee, **Sugyeong Eo**, Chanjun Park, Jaehyung Seo, Heuiseok Lim <br>
 *EACL 2024-Findings* <br>
 
-- **Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean](https://aclanthology.org/2024.lrec-main.907/)** <br>
+- **[Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean](https://aclanthology.org/2024.lrec-main.907/)** <br>
 Seungyoon Lee, Chanjun Park, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, **Sugyeong Eo**, Heuseok Lim<br>
 *LREC-COLING 2024*<br>
 
