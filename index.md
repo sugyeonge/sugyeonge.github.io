@@ -9,11 +9,18 @@ thumbnail-img: sugyeongeo.jpg
 .container-md {
   max-width: 1500px !important;
 }
+  body {
+  font-family: Arial, "Noto Sans KR", sans-serif;
+  line-height: 1.7;
+}
 a {
-  color: #468284;
+  color: #305CDE;
 }
 a:hover {
-  color: #468284;
+  color: #305CDE;
+}
+  strong, b {
+  font-weight: 700 !important;
 }
 </style>
 
@@ -360,47 +367,47 @@ Chanjun Park, Kinam Park, Hyeonseok Moon, **Sugyeong Eo**, Heuiseok Lim<br>
 
 
 ## Patents
-<span style="color:#468284">**신뢰도 기반 효율적인 다중 에이전트 협력을 위한 장치 및 방법**</span> <br>
+<span style="color:#305CDE">**신뢰도 기반 효율적인 다중 에이전트 협력을 위한 장치 및 방법** </span> <br>
 Heuiseok Lim, **Sugyeong Eo**<br>
 국내특허출원완료 (10-2025-0087619	), 2025<br>
 
-<span style="color:#468284">**DEVICE AND METHOD FOR GENERATION OF DIVERSE QUESTION-ANSWER PAIR**</span> <br>
+<span style="color:#305CDE">**DEVICE AND METHOD FOR GENERATION OF DIVERSE QUESTION-ANSWER PAIR** </span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 해외특허출원완료 (18/585,166) <br>
 
-<span style="color:#468284">**클러스터 정보 기반 전문가 혼합 학습 시스템**</span> <br>
+<span style="color:#305CDE">**클러스터 정보 기반 전문가 혼합 학습 시스템** </span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 국내특허출원완료 (10-2024-0194707) <br>
 
-<span style="color:#468284">**유형 다양성을 고려한 교육용 질의응답쌍 생성 시스템**</span> <br>
+<span style="color:#305CDE">**유형 다양성을 고려한 교육용 질의응답쌍 생성 시스템**</span> <br>
 Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Jinsung Kim, Yuna Hur, Jeongwook Kim <br>
 국내특허등록완료 (10-2024-0009742(출원)/10-3006988(등록)) <br>
 
-<span style="color:#468284">**프롬프트를 활용한 기계번역 결과 치명적 오류 감지 방법 및 장치**</span> <br>
+<span style="color:#305CDE">**프롬프트를 활용한 기계번역 결과 치명적 오류 감지 방법 및 장치**</span> <br>
 Heuiseok Lim, **Sugyeong Eo** <br>
 국내특허출원완료 (10-2022-0161686) <br>
 
-<span style="color:#468284">**기계 번역 품질 예측을 위한 학습 데이터 생성 장치 및 방법**</span> <br>
+<span style="color:#305CDE">**기계 번역 품질 예측을 위한 학습 데이터 생성 장치 및 방법**</span> <br>
 Heuiseok Lim, **Sugyeong Eo**, Hyeonseok Moon, Chanjun Park <br>
 국내특허등록완료 (10-2021-0156657(출원)/10-2593447(등록)) <br>
 
 ## Book Chapters
-<span style="color:#468284">**Natural Language Processing Bible**</span> <br>
+<span style="color:#305CDE">**Natural Language Processing Bible**</span> <br>
 HeuiSeok Lim, Korea University NLP&AI Lab <br>
 Human Science <br>
 
 ## Honors & Awards
-- <span style="color:#468284">**Received Korea University Best Paper Award 2023**</span> <br>
-- <span style="color:#468284">**Received Naver Ph.D. Fellowship 2022**</span> <br>
-- <span style="color:#468284">**1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022)** </span> <br>
-- <span style="color:#468284">**Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022)** </span> <br>
+- <span style="color:#305CDE">**Received Korea University Best Paper Award 2023**</span> <br>
+- <span style="color:#305CDE">**Received Naver Ph.D. Fellowship 2022**</span> <br>
+- <span style="color:#305CDE">**1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022)** </span> <br>
+- <span style="color:#305CDE">**Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022)** </span> <br>
     ▶️ Paper: KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋 (KoCED: English-Korean Critical Error Detection Dataset) <br>
-- <span style="color:#468284">**Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section** </span> <br>
+- <span style="color:#305CDE">**Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section** </span> <br>
     ▶️ Paper: KommonGen: 한국어 생성 모델의 상식 추론 평가 데이터셋 (KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation) <br>
-- <span style="color:#468284">**Ranked 4th on the CommonGen 1.1 Leaderboard (Nov. 2022 Ranked 7th, CommonGen 1.1)** </span> <br>
+- <span style="color:#305CDE">**Ranked 4th on the CommonGen 1.1 Leaderboard (Nov. 2022 Ranked 7th, CommonGen 1.1)** </span> <br>
 
 ## Invited Talk
-- <span style="color:#468284">**Basic practice of natural language processing for everyone** </span> <br>
+- <span style="color:#305CDE">**Basic practice of natural language processing for everyone** </span> <br>
     PLACE: Hankuk University of Foreign Studies (2022.07) <br>
 
 <br><br><br>
