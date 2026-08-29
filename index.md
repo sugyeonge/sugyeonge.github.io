@@ -51,15 +51,15 @@ Program committee: AAAI/ACL/EMNLP 2026 <br>
 *Arxiv* <br>
 
 ### Top Conference
-- **Beyond Consensus: Downward Bias and Role Asymmetry in Multi-Agent LLM Judges for Subjective Evaluation** <br>
-Minsoo Song,  Chanwoo Kim, **Sugyeong Eo(*)**, Chanjun Park(*) <br>
+- **[Beyond Consensus: Downward Bias and Role Asymmetry in Multi-Agent LLM Judges for Subjective Evaluation](https://sugyeonge.github.io/)** <br>
+Minsoo Song,  Chanwoo Kim, **Sugyeong Eo(\*)**, Chanjun Park(\*) <br>
 *EMNLP 2026-Findings* <br>
 
-- **EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents** <br>
+- **[EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents](https://sugyeonge.github.io/)** <br>
 Doyun Kim,  Chanwoo Kim, **Sugyeong Eo**, Yeochan Yoon, Chanjun Park <br>
 *EMNLP 2026* <br>
 
-- **DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models** <br>
+- **[DART: Draft-Agreement Routing for Training-Free Adaptive Thinking Budgets in Hybrid Reasoning Models](https://sugyeonge.github.io/)** <br>
 Jungseob Lee, Seongtae Hong, Seungjun Lee, Jaehyung Seo, Junyoung Son, **Sugyeong Eo**, Chanjun Park, Hyeongju Park, Hyeonseok Moon, Heuiseok Lim <br>
 *EMNLP 2026-Findings* <br>
 
