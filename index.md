@@ -42,6 +42,7 @@ Program committee: EMNLP 2023 <br>
 Program committee: NAACL 2024 <br>
 Program committee: ACL/EMNLP 2025 <br>
 Program committee: AAAI/ACL/NeurIPS E&D/EMNLP 2026 <br>
+Oral Session Chair (Main conference): ACL/EMNLP 2026 <br>
 
 ## Publications
 
@@ -50,7 +51,15 @@ Program committee: AAAI/ACL/NeurIPS E&D/EMNLP 2026 <br>
 **Sugyeong Eo**, Hyeonseok Moon, Evelyn Hayoon Zi, Chanjun Park, Heuiseok Lim <br>
 *Arxiv* <br>
 
-### Top Conference
+### Conference
+- **[Skin-Deep: A Geometric Diagnostic for Alignment Fragility in Large Language Model Representations](https://sugyeonge.github.io/)** <br>
+Dongwon Noh, Donghyeok Koh, Yeon-Soo Lim, Seohyeong Jeong, Yunsu Kim, Gyuwan Kim, Soojong do, JinYeong Bak, **Sugyeong Eo(\*)**, Cheoneum Park(\*) <br>
+*AACL 2026-Findings* <br>
+
+- **[Lost in Mimicry: Verified Training-Free Post-Editing for Multilingual Translationese](https://sugyeonge.github.io/)** <br>
+Dongyub Jude Lee, Jungseob Lee, Seungyoon Lee, Seongtae Hong, Suhyune Son, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
+*WMT 2026* <br>
+
 - **[Beyond Consensus: Downward Bias and Role Asymmetry in Multi-Agent LLM Judges for Subjective Evaluation](https://sugyeonge.github.io/)** <br>
 Minsoo Song,  Chanwoo Kim, **Sugyeong Eo(\*)**, Chanjun Park(\*) <br>
 *EMNLP 2026-Findings* <br>
@@ -256,6 +265,50 @@ Hyeonseok Moon, Chanjun Park, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 *IEEE Access, 2021*<br>
 
 ### Domestic Conference
+- **<span style="color:#305CDE">[Best Paper] Analyzing Korean Linguistic Phenomena in Large Language Models with Sparse Autoencoders (희소 오토인코더를 활용한 대규모 언어 모델의 한국어 언어현상 처리 양상 분석)</span>** <br>
+Soomin Lee, Sanghwa Lee, Hogun Seong, Euijun Choi, Junhyeon Shin, Jeongwoong Cho, **Sugyeong Eo** <br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">Evaluating the Effectiveness of Confidence-Based Calibration on Small Datasets (소형 데이터셋에서 신뢰도 기반 보정의 유효성 분석)</span>** <br>
+Junhyeon Shin, Sanghwa Lee, Hogun Seong, Jeongwoong Cho, Euijun Choi, Soomin Lee, **Sugyeong Eo**<br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">Korean Structure Cards and Dictionary-Free Evaluation for Creative Analogy (창의적 유추를 위한 한국어 구조 카드와 사전 비의존 평가)</span>** <br>
+Sanghwa Lee, Hogun Seong, Euijun Choi, Soomin Lee, Jeongwoong Cho, Junhyeon Shin, Taeeung Sung(\*), **Sugyeong Eo(\*)** <br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">[Best Paper] LLM Overswitching in Legal Judgments: An Analysis of Country-Name Cue Effects (법률 판단에서의 LLM Overswitching: 국가명 신호 효과 분석)</span>** <br>
+Euijun Choi, Sanghwa Lee, Hogun Seong, Jeongwoong Cho, Soomin Lee, Junhyeon Shin, Cheoneum Park(\*), **Sugyeong Eo(\*)** <br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">Evaluating LLM Action Priority Formation and Reprioritization under Complex Operational Constraints (복합 상황에서 운영 제약에 따른 LLM 행동 우선순위 결정 및 수정 능력 평가)</span>** <br>
+Hogun Seong, Sanghwa Lee, Soomin Lee, Euijun Choi, Junhyeon Shin, Jeongwoong Cho, Cheoneum Park(\*), **Sugyeong Eo(\*)** <br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">Survey Paper Generation Multi-Agent System Using SkillAdaptor (SkillAdaptor를 활용한 서베이 논문 생성 Multi-Agent System)</span>** <br>
+Hyeonjeong Lee, Donghyeok Koh , Eojin Kang, Wooju Lee, Juae Kim, **Sugyeong Eo(\*)**, Cheoneum Park(\*) <br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">[Best Paper] Multilingual Medical Dialogue Dataset Construction Using Multiple LLMs with Cultural and Linguistic Adaptation (문화 및 언어 특성 기반 다중 LLM을 통한 다국어 의료 대화 데이터셋 구축)</span>** <br>
+Dongwon Noh, Gyuwan Kim, Yunsu Kim, Jinyeong Bak, **Sugyeong Eo(\*)**, Cheoneum Park(\*) <br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">[Best Paper] Automatic Survey Generation with AFlow-based Workflow Optimization (AFlow 기반 워크플로우 최적화를 활용한 서베이 논문 생성)</span>** <br>
+Donghyeok Koh, Hyeonjeong Lee, Eojin Kang, Wooju Lee, Gyuwan Kim, **Sugyeong Eo**, Juae Kim, Cheoneum Park <br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">Evaluating Instruction Authority Judgments in Korean LLM Agents  (한국어 LLM 에이전트의 지시 수행 권한 판단 평가)</span>** <br>
+Jungseob Lee, **Sugyeong Eo**, Seungyoon Lee, Seongtae Hong, Youngjoon Jang, Jeongbae Park, Heuiseok Lim <br>
+*Annual Conference on Human & Cognitive Language Technology, 2026*<br>
+
+- **<span style="color:#305CDE">A Study on the Pragmatic Understanding Capabilities of Large Language Models (초거대 언어모델의 화용 능력에 관한 고찰)</span>** <br>
+**Sugyeong Eo**, Yuna Hur, Heuiseok Lim <br>
+*Annual Conference on Human & Cognitive Language Technology, 2025*<br>
+
+- **<span style="color:#305CDE">An Empirical Study of Korean Values and Biases in Large Language Models (대규모 언어모델의 한국적 가치관과 편향에 대한 분석)</span>** <br>
+Evelyn Hayoon Zi, **Sugyeong Eo**, Kinam Park, Heuiseok Lim <br>
+*Annual Conference on Human & Cognitive Language Technology, 2025*<br>
+
 - **<span style="color:#305CDE">A Method for Efficient Ensemble of Large Language Model (효율적인 거대 언어모델 앙상블을 위한 점진적 기법)</span>** <br>
 **Sugyeong Eo**, Chanjun Park, Yuna Hur, Heuiseok Lim <br>
 *Annual Conference on Human and Language Technology, 2024*<br>
