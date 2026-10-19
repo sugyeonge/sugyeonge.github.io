@@ -450,6 +450,11 @@ HeuiSeok Lim, Korea University NLP&AI Lab <br>
 Human Science <br>
 
 ## Honors & Awards
+- <span style="color:#305CDE">**Best Paper Award, The 38th Annual Conference on Human & Cognitive Language Technology (HCLT2026)** </span> <br>
+    ▶️ Paper: 법률 판단에서의 LLM Overswitching: 국가명 신호 효과 분석 (LLM Overswitching in Legal Judgments: An Analysis of Country-Name Cue Effects) <br>
+    ▶️ Paper: 희소 오토인코더를 활용한 대규모 언어 모델의 한국어 언어현상 처리 양상 분석 (Analyzing Korean Linguistic Phenomena in Large Language Models with Sparse Autoencoders) <br>
+    ▶️ Paper: 문화 및 언어 특성 기반 다중 LLM을 통한 다국어 의료 대화 데이터셋 구축 (Multilingual Medical Dialogue Dataset Construction Using Multiple LLMs with Cultural and Linguistic Adaptation) <br>
+    ▶️ Paper: AFlow 기반 워크플로우 최적화를 활용한 서베이 논문 생성 (Automatic Survey Generation with AFlow-based Workflow Optimization) <br>    
 - <span style="color:#305CDE">**Received Korea University Best Paper Award 2023**</span> <br>
 - <span style="color:#305CDE">**Received Naver Ph.D. Fellowship 2022**</span> <br>
 - <span style="color:#305CDE">**1st place in Quality Estimation Shared Task 2022 - Sentence-level “Critical Error Detection”, WMT 2022 (EMNLP 2022)** </span> <br>
