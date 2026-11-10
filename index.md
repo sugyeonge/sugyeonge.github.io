@@ -53,11 +53,11 @@ Oral Session Chair (Main conference): ACL/EMNLP 2026 <br>
 
 ### Conference
 - **[Skin-Deep: A Geometric Diagnostic for Alignment Fragility in Large Language Model Representations](https://sugyeonge.github.io/)** <br>
-Dongwon Noh, Donghyeok Koh, Yeon-Soo Lim, Seohyeong Jeong, Yunsu Kim, Gyuwan Kim, Soojong do, JinYeong Bak, **Sugyeong Eo(\*)**, Cheoneum Park(\*) <br>
+Dongyub Jude Lee, Jungseob Lee, Seungyoon Lee, Seongtae Hong, Suhyune Son, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
 *AACL 2026-Findings* <br>
 
 - **[Lost in Mimicry: Verified Training-Free Post-Editing for Multilingual Translationese](https://sugyeonge.github.io/)** <br>
-Dongyub Jude Lee, Jungseob Lee, Seungyoon Lee, Seongtae Hong, Suhyune Son, **Sugyeong Eo**, Jaehyung Seo, Heuiseok Lim <br>
+Dongwon Noh, Donghyeok Koh, Yeon-Soo Lim, Seohyeong Jeong, Yunsu Kim, Gyuwan Kim, Soojong do, JinYeong Bak, **Sugyeong Eo(\*)**, Cheoneum Park(\*) <br>
 *WMT 2026* <br>
 
 - **[Beyond Consensus: Downward Bias and Role Asymmetry in Multi-Agent LLM Judges for Subjective Evaluation](https://sugyeonge.github.io/)** <br>
